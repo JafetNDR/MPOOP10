@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 import java.io.FileReader;
 import java.io.FileNotFoundException;
 
-class Main {
+public class Main {
   public static void main(String[] args) {
     System.out.println("########### File ##########");
     
